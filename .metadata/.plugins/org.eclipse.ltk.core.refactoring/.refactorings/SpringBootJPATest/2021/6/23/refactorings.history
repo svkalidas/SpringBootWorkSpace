@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.ksv.springboot.jpa.test.service.BoUserService.updateUser(...)&apos; to &apos;patchUser&apos;&#x0D;&#x0A;- Original project: &apos;SpringBootJPATest&apos;&#x0D;&#x0A;- Original element: &apos;com.ksv.springboot.jpa.test.service.BoUserService.updateUser(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;com.ksv.springboot.jpa.test.service.BoUserService.patchUser(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;updateUser&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ksv.springboot.jpa.test.service{BoUserService.java[BoUserService~updateUser~QUserInfo;~QLong;" name="patchUser" references="true" stamp="1622668850504" version="1.0"/>
+</session>
